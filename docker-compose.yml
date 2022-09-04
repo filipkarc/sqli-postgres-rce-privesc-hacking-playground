@@ -1,0 +1,8 @@
+version: "3.2"
+
+services:
+  sqlinjection:
+    build: ./custom
+    restart: always
+    ports:
+      - "8091:80"
