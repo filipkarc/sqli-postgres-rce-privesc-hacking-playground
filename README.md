@@ -1,4 +1,4 @@
-![screen](img/screen1.png)
+![screen](img/screen.png)
 
 ## Vulnerable Web App: sqli-postgres-rce-privesc-hacking-playground
 
