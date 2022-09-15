@@ -31,11 +31,9 @@ docker run -p 8091:80 -d filipkarc/sqli-postgres-rce-privesc-hacking-playground:
 After 2 minutes, it should be visible in the browser: http://127.0.0.1:8091
 
 
-## Contact
+## Follow me
 
-Feel free to contact me on [Twitter @FilipKarc](https://twitter.com/FilipKarc).
-
-Be sure to follow me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/filip-karczewski/).
+Follow me on [Twitter @FilipKarc](https://twitter.com/FilipKarc) and on LinkedIn: [LinkedIn](https://www.linkedin.com/in/filip-karczewski/).
 
 
   
